@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Lucas Nunes!
+# Hello World! I'm Lucas Nunes
 
  Desenvolvedor em constante aprendizado, apaixonado por tecnologia e programação.  
 Atualmente estudando **Análise e Desenvolvimento de Sistemas (ADS)** na **FIAP** e com formação técnica em **Desenvolvimento de Sistemas (DS)** pela **ETEC**.
