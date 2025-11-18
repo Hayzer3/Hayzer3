@@ -29,7 +29,6 @@ Atualmente estudando **Análise e Desenvolvimento de Sistemas (ADS)** na **FIAP*
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Hayzer3&show_icons=true&theme=radical&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hayzer3&layout=compact&langs_count=7&theme=radical"/>
 </div>
-
 ---
 
 ##  Sobre mim
@@ -53,6 +52,12 @@ Atualmente estudando **Análise e Desenvolvimento de Sistemas (ADS)** na **FIAP*
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hayzer3/Hayzer3/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hayzer3/Hayzer3/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hayzer3/Hayzer3/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
